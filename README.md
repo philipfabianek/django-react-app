@@ -1,6 +1,6 @@
 # Django-React Application
 
-This project consists of a Django backend and a React frontend.
+This project consists of a Django backend and a React frontend. It was created as an example project for my video about deploying Django-React apps on a Linux VPS available at https://youtu.be/E9Ly_rASuS8.
 
 ## Directory Structure
 
